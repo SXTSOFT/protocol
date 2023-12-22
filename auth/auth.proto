@@ -15,7 +15,7 @@
 syntax = "proto3";
 package OpenIMServer.auth;
 import "sdkws/sdkws.proto";
-option go_package = "github.com/OpenIMSDK/protocol/auth";
+option go_package = "github.com/SXTSOFT/protocol/auth";
 
 message userBindingReq {
   int32 platformID = 1;

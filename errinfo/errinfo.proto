@@ -16,7 +16,7 @@ syntax = "proto3";
 
 package OpenIMServer.protobuf;
 
-option go_package = "github.com/OpenIMSDK/protocol/errinfo";
+option go_package = "github.com/SXTSOFT/protocol/errinfo";
 
 message ErrorInfo {
   string path = 1;

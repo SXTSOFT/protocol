@@ -15,7 +15,7 @@
 syntax = "proto3";
 package OpenIMServer.sdkws;
 import "wrapperspb/wrapperspb.proto";
-option go_package = "github.com/OpenIMSDK/protocol/sdkws";
+option go_package = "github.com/SXTSOFT/protocol/sdkws";
 
 ////////////////////////////////base///////////////////////////////
 

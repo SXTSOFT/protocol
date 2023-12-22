@@ -22,7 +22,7 @@ package conversation
 
 import (
 	context "context"
-	wrapperspb "github.com/OpenIMSDK/protocol/wrapperspb"
+	wrapperspb "github.com/SXTSOFT/protocol/wrapperspb"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"

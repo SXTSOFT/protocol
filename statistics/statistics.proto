@@ -14,5 +14,5 @@
 
 syntax = "proto3";
 package OpenIMServer.statistics;
-option go_package = "github.com/OpenIMSDK/protocol/statistics";
+option go_package = "github.com/SXTSOFT/protocol/statistics";
 
